@@ -1,0 +1,15 @@
+<resources>
+    <string name="a">+</string>
+    <string name="s">-</string>
+    <string name="m">X</string>
+    <string name="D">/</string>
+    <string name="K">Mod</string>
+    <string name="k">%</string>
+    <string name="t">12</string>
+    <string name="E">▲♀▼</string>
+    <string name="e"> </string>
+    <string name="N">%</string>
+    <string name="dummy">%</string>
+    <string name="percent">%</string>
+    <string name="X">= Inaccuracy warning</string>
+</resources>
